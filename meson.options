@@ -1,0 +1,6 @@
+option(
+    'build_sandbox',
+    type: 'boolean',
+    value: false,
+    description: 'Build sandbox',
+)
